@@ -21,4 +21,4 @@
 # Sample sentence:  
 # Wednesday, April 4 will be Partly Cloudy/Windy with a High of 37 degrees and a low of 25, humidity at 52%.  There is 0% chance of rain with winds out of the WNW at 22 mph.
 
-url = "https://weather.com/weather/tenday/l/Chicago+IL+USIL0225:1:US"
+url = "https://weather.com/weather/tenday/l/USIL0225:1:US"
